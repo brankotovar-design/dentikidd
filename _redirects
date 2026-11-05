@@ -1,0 +1,4 @@
+/c/*            /index.html               200
+/i/*            /index.html               200
+/consultorio    /consultorio/index.html   200
+/consultorio/*  /consultorio/index.html   200
